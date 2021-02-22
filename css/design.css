@@ -1,0 +1,73 @@
+*{
+  font-family:monospace;
+  margin: 0;
+  padding: 0;
+    
+}
+
+header{
+    width:1000px;
+    margin: auto;
+}
+
+section{
+    width: 1000px;
+    margin: auto;    
+}
+
+.titulo{...}
+
+.parrafo{...}
+
+.odair{
+       color:deepskyblue;
+       font-size: 50px;
+       font-family:fantasy;
+       text-align:center;
+       
+}
+    
+.tabla_1{
+    text-align: center;
+    background-color: firebrick;
+    color:white;
+    padding: 15px 0px 0px 0px;
+    font-size: 20px;
+}
+
+.subtitulo_1{
+    text-align: center;
+    background-color: midnightblue;
+    color:red;
+}
+
+.subtitulo_2{
+    text-align: center;
+    background-color: black;
+    color:deepskyblue;
+}
+
+.subtitulo_3{
+    text-align: center;
+    background-color: midnightblue;
+    color: deeppink;
+}
+
+.subtitulo_4{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+    
+
+
+.tabla{
+       margin: 15px 0px 15px 0px;
+}
+
+
+
+    
+    
+
